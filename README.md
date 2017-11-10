@@ -1,0 +1,2 @@
+# about
+Openki project blog
